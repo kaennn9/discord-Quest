@@ -26,6 +26,8 @@ A Discord.js bot command that fetches and displays detailed information about Di
    # Install dependencies
    npm install discord.js
    ```
+   ![getquest](images/getquest.png)
+
 
 3. **Configuration**:
    Create a `config.js` file in the root directory:
